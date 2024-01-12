@@ -1,0 +1,15 @@
+.l{
+    height: 50vh;
+}
+.t{
+font-size: 15px;
+}
+.bg{
+    background-color: rgb(150, 141, 130);
+}
+.ml{
+    margin-left: 10px;
+}
+.c1:hover{
+    transform: scale(1.1);
+}
